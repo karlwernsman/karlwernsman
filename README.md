@@ -17,4 +17,4 @@ Frameworks: Express.js, Node.js
 <br>
 <br>
 Here is a sneak peak of Swimmy Nudibranch! Check it out here: https://swimmy-nudibranch.netlify.app/
-![](https://github.com/rioredwards/karlwernsman/blob/main/Swimmy_Nudibranch.gif)
+![](https://github.com/karlwernsman/karlwernsman/blob/main/Swimmy_Nudibranch.gif)
