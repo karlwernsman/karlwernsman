@@ -1,20 +1,22 @@
 ### Howdy ya'll!
 
-I am a software developer in training at Alchemy Code Lab. My background in human and veterinary healthcare shaped me to be a person with empathy, communication skills, and work-ethic, not only in the workplace but also in my everyday life. I value diversity and inclusion in tech and ensuring a safe space for all in the workplace. 
+Full stack software engineer with a background in veterinary medicine and management. Empathy-driven and detail-oriented, I create accessible user experiences with a keen eye for design. Strong team player and self-starter, I excel in collaborative environments. Passionate about leveraging the full stack to deliver innovative solutions.
 <br>
 <br>
 Tech Stack:
 <br>
-Languages: HTML | CSS | Javascript | React
+Languages: HTML | CSS | Javascript | Dart | SQL
 <br>
 Databases: Supabase, PostgresSQL
 <br>
-Dev Tools: GitHub | Netlify | Heroku | Fly.io | VSCode
+Dev Tools: Git | GitHub | Netlify | Heroku | Fly.io | VSCode
 <br>
-Practices: Pair/Mob Programming, TDD (Jest, Supertest)
+Practices: Pair/Mob Programming, TDD (Jest, Supertest), UI/UX Design, Responsive Weeb Design
 <br>
-Frameworks: Express.js, Node.js
+Frameworks: React, Flutter, Express.js, Node.js, React Native
 <br>
 <br>
-Here is a sneak peak of Swimmy Nudibranch! Check it out here: https://swimmy-nudibranch.netlify.app/
-![](https://github.com/karlwernsman/karlwernsman/blob/main/Swimmy_Nudibranch.gif)
+Check out my current project I am leading for Code for PDX!
+<br>
+The "Loocater" app is a mobile application built in Flutter that helps users find and review public restrooms. Leveraging the power of Google Maps integration, the app provides a user-friendly interface to locate nearby restrooms, add new restroom locations, and leave reviews for existing restrooms.
+https://github.com/Preferred-Potties/loocater
