@@ -7,11 +7,11 @@ Tech Stack:
 <br>
 Languages: HTML | CSS | Javascript | Dart | SQL
 <br>
-Databases: Supabase, PostgresSQL
+Databases: Supabase, PostgreSQL
 <br>
 Dev Tools: Git | GitHub | Netlify | Heroku | Fly.io | VSCode
 <br>
-Practices: Pair/Mob Programming, TDD (Jest, Supertest), UI/UX Design, Responsive Weeb Design
+Practices: Pair/Mob Programming, TDD (Jest, Supertest), UI/UX Design, Responsive Web Design
 <br>
 Frameworks: React, Flutter, Express.js, Node.js, React Native
 <br>
