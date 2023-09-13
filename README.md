@@ -1,4 +1,4 @@
-### Howdy ya'll!
+### Howdy y'all!
 
 Full stack software engineer with a background in veterinary medicine and management. Empathy-driven and detail-oriented, I create accessible user experiences with a keen eye for design. Strong team player and self-starter, I excel in collaborative environments. Passionate about leveraging the full stack to deliver innovative solutions.
 <br>
