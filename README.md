@@ -18,5 +18,5 @@ Frameworks: React, Flutter, Express.js, Node.js, React Native
 <br>
 Check out my current project I am leading for Code for PDX!
 <br>
-The "Loocater" app is a mobile application built in Flutter that helps users find and review public restrooms. Leveraging the power of Google Maps integration, the app provides a user-friendly interface to locate nearby restrooms, add new restroom locations, and leave reviews for existing restrooms.
-https://github.com/Preferred-Potties/loocater
+The "Loocator" app is a mobile application built in Flutter that helps users find and review public restrooms. Leveraging the power of Google Maps integration, the app provides a user-friendly interface to locate nearby restrooms, add new restroom locations, and leave reviews for existing restrooms.
+https://github.com/Preferred-Potties/loocator
